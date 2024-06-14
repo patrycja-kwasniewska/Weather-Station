@@ -1,5 +1,5 @@
 # Weather-Station - joint project
-# ESP32, C++, JavaScript
+# ESP32, C, JavaScript
 
 <img src="images/IMG_20240610_123827.png" alt="neutral" width="700">
 
