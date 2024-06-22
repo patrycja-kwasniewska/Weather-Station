@@ -3,7 +3,7 @@
 
 <img src="images/IMG_20240610_123827.png" alt="neutral" width="700">
 
-The program was written in C++ in the Arduino execution environment. ESP32 microcontroller, BME humidity, pressure and temperature sensor, TFT display, photoresistor, resistors and diodes were used.
+The program was written in C in the Arduino execution environment. ESP32 microcontroller, BME humidity, pressure and temperature sensor, TFT display, photoresistor, resistors and diodes were used.
 
 The display shows measurements of light intensity (%), temperature (°C), humidity (%) and air pressure (hPa), as well as a moving GIF file using the AnimatedGIF library. 
 
