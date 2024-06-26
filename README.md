@@ -1,4 +1,6 @@
 # Weather-Station - joint project
+<p align='justify'><i>Please note that the code commits in this repository attributed to a single individual are related to the fact that we had only one development kit with an ESP microcontroller available. Consequently, the code was written and tested on this single device. The entire project was a collaborative effort. All team members co-wrote the code, shared responsibilities, and actively participated in the development process. This unified approach ensured the project's success, leveraging everyone's skills and knowledge.</i></p>
+
 # ESP32, C, JavaScript
 
 <img src="images/IMG_20240610_123827.png" alt="neutral" width="700">
